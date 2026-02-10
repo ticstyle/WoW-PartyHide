@@ -1,11 +1,12 @@
-## Interface: 50400
-## Title: PartyHide
-## Author: StoffeTiX @ Ticstyle
-## Version: 5.4.8
-## X-Curse-Packaged-Version: 5.4.8
+## Interface: 120000
+## Title: PartyHide |cff9966ff<duality.ps>
+## Notes: Hides Blizzard's party frames.
+## Author: duality.ps @ Ticstyle
+## Version: r16
+## X-Curse-Packaged-Version: r16
 ## X-Curse-Project-Name: PartyHide
 ## X-Curse-Project-ID: partyhide
-## Website: http://partyhide.ticstyle.se/
-## Donate: http://donate.ticstyle.se/
-## Notes: Hides Blizzards party frames.                                 Author: |cff7f7fffTicstyle|r
-PartyHide.xml
+## X-Curse-Repository-ID: wow/partyhide/mainline
+## DefaultState: enabled
+
+PartyHide.lua
